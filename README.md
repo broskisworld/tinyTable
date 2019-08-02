@@ -1,5 +1,5 @@
 # tinyTable
-A small c# library for displaying 2-dimensional tables in console applications.
+A lightweight c# library for displaying simple 2-dimensional tables in console applications.
 
 ## Use
 To use this library, you must add a reference to tinyTable.dll and include the namespace `tinyTable` into your program.  
